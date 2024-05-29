@@ -2,6 +2,7 @@ public class BSTreee {
     static class Node {
         int data;
         Node left, right;
+        // hello
         public Node(int data) {
             this.data = data;
             left = right = null;
